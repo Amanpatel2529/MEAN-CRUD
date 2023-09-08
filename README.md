@@ -1,2 +1,2 @@
-# MEAN_MongoDB_Crud_application
+# MEAN_CRUD
 client | server | database
